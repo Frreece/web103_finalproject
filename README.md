@@ -24,21 +24,21 @@ Backend:
 
 ## Features
 
-### [Name of Feature 1]
+### [Tenants Creating Maintenance Requests]
 
-[short description goes here]
-
-[gif goes here]
-
-### [Name of Feature 2]
-
-[short description goes here]
+Tenants will be able to create a maintenance request by filling out a form. The request will have fields such as building, category of issue, and description.
 
 [gif goes here]
 
-### [Name of Feature 3]
+### [Managers Viewing Maintanence Requests]
 
-[short description goes here]
+Managers will be able to see and respond to maintanence requests filled out by all tenants.
+
+[gif goes here]
+
+### [Tenants Viewing Maintanence Requests]
+
+Tenants will be able to view **only** their own maintanence requests.
 
 [gif goes here]
 
