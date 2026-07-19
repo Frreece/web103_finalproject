@@ -73,6 +73,7 @@ The `request_assignment` table connects maintenance requests with the technician
 | technician_id | integer | Foreign key referencing the assigned technician in `user.id` |
 | status | enum | Current status of the technician assignment |
 | assigned_at | timestamp | Date and time when the technician was assigned; defaults to the current date and time |
+| estimated_completion_date | timestamp | Estimated date and time when the assigned work will be completed |
 
 ### Entity Relationships
 
